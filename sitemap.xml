@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://insa.com/index.html</loc>
+    <lastmod>2019-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://insa.com/phone/index.html"/>
+    <image:image>
+      <image:loc>http://insa.com/images/90dd9f12fdd1eefb8c8976903944c026-icono-de-facebook-logo-by-vexels.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://insa.com/images/logotipo-oficial-facebook-2014.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://insa.com/images/reloj.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://insa.com/images/las-redes-sociales-en-m%C3%A9xico-compressor-crop-u330.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://insa.com/images/radioenvivo-crop-u527.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://insa.com/images/sin%20t%C3%ADtulo-123qrw-crop-u1036.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://insa.com/images/116352-crop-u403.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://insa.com/images/logo%20insa-crop-u568.png</image:loc>
+    </image:image>
+  </url>
+</urlset>

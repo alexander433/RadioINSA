@@ -1,0 +1,78 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="insa.com" resolutions="1x" timestamp="1563557059779">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4019902332" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:index"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>index:index"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="sin título-22-u1098.png" crc="4175092240" ref="phone>index"/>
+    <file name="u1108-4.png" crc="451348041" ref="phone>index"/>
+    <file name="sin título-1233-u1111.png" crc="4184207589" ref="phone>index"/>
+    <file name="sin título-1233-u1118.png" crc="4184207589" ref="phone>index"/>
+    <file name="sin título-1233-u1125.png" crc="4184207589" ref="phone>index"/>
+    <file name="las-redes-sociales-en-méxico-compressor-crop-u1165.jpg" crc="3981112261" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="90dd9f12fdd1eefb8c8976903944c026-icono-de-facebook-logo-by-vexels.png" crc="3963351612" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radioenvivo-crop-u1171.jpg" crc="4046186139" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="logotipo-oficial-facebook-2014.png" crc="4132409366" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="reloj.png" crc="4004216177" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="li-crop-u1258.png" crc="4015870976" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="116352-crop-u1051.jpg" crc="328914827" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1268-6.png" crc="4167371351" ref="phone>index"/>
+    <file name="u437-4.png" crc="409291306" ref="index"/>
+    <file name="sin título-1233-u461.png" crc="3812912855" ref="index"/>
+    <file name="sin título-1233-u478.png" crc="3812912855" ref="index"/>
+    <file name="sin título-1233-u485.png" crc="3812912855" ref="index"/>
+    <file name="las-redes-sociales-en-méxico-compressor-crop-u330.jpg" crc="3981112261" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radioenvivo-crop-u527.jpg" crc="4046186139" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sin título-123qrw-crop-u1036.png" crc="273732941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="116352-crop-u403.jpg" crc="4242151591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo insa-crop-u568.png" crc="4038411258" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u592-6.png" crc="476538054" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="51974773" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4164410709" seo="true" mt="1563556965289" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3952608373" seo="true" mt="1563555817457" redirect="true"/>
+</manifest>
